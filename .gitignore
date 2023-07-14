@@ -27,3 +27,4 @@ yarn-error.log*
 cypress/screenshots/
 cypress/videos/
 cypress/reports/
+google-chrome-stable_current_amd64.deb
